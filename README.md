@@ -2,11 +2,10 @@
   <h1 align="center"><strong>Monitoring Automotive Perception Sensors <br> Using Latent Representations
     </strong></h1>
     <p align="center">
-<b>Contrastive embedding of camera-lidar pairs for label-free anomaly detection in autonomous driving</b>
 </p>
 <p align="center">
-  <a href="[https://ieee-iv.org/2026/](https://www.degruyterbrill.com/journal/key/auto/html?lang=de&srsltid=AfmBOoryLU36PlSlWbFSlwW6IDd8UMF4yvD5IKOsxLS_-VJJs7VT7SIP)">
-  <img src="https://img.shields.io/badge/Journal-AT-blue"/>
+  <a href="https://www.degruyterbrill.com/journal/key/auto/html?lang=de&srsltid=AfmBOoryLU36PlSlWbFSlwW6IDd8UMF4yvD5IKOsxLS_-VJJs7VT7SIP">
+    <img src="https://img.shields.io/badge/Journal-AT-blue"/>
   </a>
   <img src="https://img.shields.io/badge/PyTorch-1.9+-ee4c2c"/>
 </p>
@@ -17,7 +16,6 @@
       <a href="https://www.thi.de/personen/prof-dr-ing-michael-botsch/">Michael Botsch</a><sup>1,2</sup>&nbsp;&nbsp;
     </h3>    
     <p align="center">
-    <br>
     <small><sup>1</sup>Technische Hochschule Ingolstadt, AImotion Bavaria, Esplanade 10, 85049 Ingolstadt, Germany,</small>
     <br>
     <small><sup>2</sup>Technische Hochschule Ingolstadt, Research Center CARISSMA , Esplanade 10, 85049 Ingolstadt, Germany,</small>
