@@ -62,9 +62,13 @@ Architecture overview. The proposed monitoring framework contains three main com
 ## Setup
 
 #### Requirements
-- Python 3.8+
-- PyTorch 1.9+
-- CUDA 12.6 (optional, for GPU support)
+The code was developed using the following environment:
+- Python 3.9.21
+- PyTorch 2.5.1
+- CUDA 12.6 (optional, required for GPU acceleration)
+
+Other versions may work but have not been explicitly tested.
+
 
 ### Installation
 1. Clone this repository
