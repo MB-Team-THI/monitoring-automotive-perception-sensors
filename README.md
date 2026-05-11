@@ -36,7 +36,7 @@ This repository provides the official implementation of the journal article:
 
 **"Monitoring Automotive Perception Sensors Using Latent Representations"**
 
-Paper Link: to be announced
+Paper Link: [https://doi.org/10.1515/auto-2025-0050](https://doi.org/10.1515/auto-2025-0050)
 
 
 
@@ -110,13 +110,17 @@ During evaluation, these learned object embeddings are used to fit and apply the
 
 ## Citation
 ```
-@article{Fertig2026,
-  title   = {Monitoring Automotive Perception Sensors Using Latent Representations},
-  author  = {Alexander Fertig and Michael Botsch},
-  year    = {2026},
-  journal = {TBD},
-  pages   = {TBD},
-  doi     = {TBD},
+@article{FertigBotsch+2026+349+360,
+  url = {https://doi.org/10.1515/auto-2025-0050},
+  title = {Monitoring automotive perception sensors using latent representations},
+  author = {Alexander Fertig and Michael Botsch},
+  pages = {349--360},
+  volume = {74},
+  number = {5},
+  journal = {at - Automatisierungstechnik},
+  doi = {doi:10.1515/auto-2025-0050},
+  year = {2026},
 }
+
 ```
 
